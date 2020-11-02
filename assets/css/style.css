@@ -421,6 +421,29 @@ a:focus, a:hover {
   height: 100%;
 }
 
+@media (max-width: 100px) {
+  .slider h1 {
+    font-size: 15px;
+    line-height: 1.1;
+  }
+  .banner .banner-content h1 {
+    font-size: 15px;
+    line-height: 1.1;
+  }
+  .banner-content {
+    padding: 70px 0px;
+  }
+  .lead {
+    font-size: 1rem;
+  }
+  .slider::before {
+    display: none;
+  }
+  .banner {
+    min-height: 400px;
+  }
+}
+
 @media (max-width: 480px) {
   .slider h1 {
     font-size: 35px;
@@ -440,7 +463,7 @@ a:focus, a:hover {
     display: none;
   }
   .banner {
-    min-height: 400px;
+    min-height: 200px;
   }
 }
 
