@@ -538,24 +538,27 @@ a:focus, a:hover {
 
 @media (max-width: 400px) {
   .slider h1 {
-    font-size: 25px;
+    font-size: 10px;
     line-height: 1.1;
   }
   .banner .banner-content h1 {
-    font-size: 25px;
+    font-size: 10px;
     line-height: 1.1;
   }
   .banner-content {
     padding: 70px 0px;
   }
   .lead {
-    font-size: 0.5rem;
+    font-size: 0.2rem;
+  }
+  .cd-words-wrapper{
+    font-size: 2rem;
   }
   .slider::before {
     display: none;
   }
   .banner {
-    min-height: 400px;
+    min-height: 200px;
   }
 }
 
