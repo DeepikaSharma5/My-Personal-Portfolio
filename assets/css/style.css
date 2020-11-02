@@ -423,18 +423,18 @@ a:focus, a:hover {
 
 @media (max-width: 200px) {
   .slider h1 {
-    font-size: 15px;
+    font-size: 5px;
     line-height: 1.1;
   }
   .banner .banner-content h1 {
-    font-size: 15px;
+    font-size: 5px;
     line-height: 1.1;
   }
   .banner-content {
     padding: 70px 0px;
   }
   .lead {
-    font-size: 1rem;
+    font-size: 0.5rem;
   }
   .slider::before {
     display: none;
@@ -446,18 +446,18 @@ a:focus, a:hover {
 
 @media (max-width: 300px) {
   .slider h1 {
-    font-size: 15px;
+    font-size: 5px;
     line-height: 1.1;
   }
   .banner .banner-content h1 {
-    font-size: 15px;
+    font-size: 5px;
     line-height: 1.1;
   }
   .banner-content {
     padding: 70px 0px;
   }
   .lead {
-    font-size: 1rem;
+    font-size: 0.5rem;
   }
   .slider::before {
     display: none;
@@ -480,7 +480,7 @@ a:focus, a:hover {
     padding: 70px 0px;
   }
   .lead {
-    font-size: 1rem;
+    font-size: 0.5rem;
   }
   .slider::before {
     display: none;
@@ -503,7 +503,7 @@ a:focus, a:hover {
     padding: 70px 0px;
   }
   .lead {
-    font-size: 1rem;
+    font-size: 0.5rem;
   }
   .slider::before {
     display: none;
@@ -515,18 +515,18 @@ a:focus, a:hover {
 
 @media (max-width: 480px) {
   .slider h1 {
-    font-size: 35px;
+    font-size: 25px;
     line-height: 1.1;
   }
   .banner .banner-content h1 {
-    font-size: 35px;
+    font-size: 25px;
     line-height: 1.1;
   }
   .banner-content {
     padding: 70px 0px;
   }
   .lead {
-    font-size: 1rem;
+    font-size: 0.5rem;
   }
   .slider::before {
     display: none;
@@ -538,18 +538,18 @@ a:focus, a:hover {
 
 @media (max-width: 400px) {
   .slider h1 {
-    font-size: 35px;
+    font-size: 25px;
     line-height: 1.1;
   }
   .banner .banner-content h1 {
-    font-size: 35px;
+    font-size: 25px;
     line-height: 1.1;
   }
   .banner-content {
     padding: 70px 0px;
   }
   .lead {
-    font-size: 1rem;
+    font-size: 0.5rem;
   }
   .slider::before {
     display: none;
@@ -561,18 +561,18 @@ a:focus, a:hover {
 
 @media (max-width: 768px) {
   .slider h1 {
-    font-size: 35px;
+    font-size: 25px;
     line-height: 1.1;
   }
   .banner .banner-content h1 {
-    font-size: 35px;
+    font-size: 25px;
     line-height: 1.1;
   }
   .banner-content {
     padding: 70px 0px;
   }
   .lead {
-    font-size: 1rem;
+    font-size: 0.5rem;
   }
   .slider::before {
     display: none;
@@ -595,7 +595,7 @@ a:focus, a:hover {
     padding: 70px 0px;
   }
   .lead {
-    font-size: 1rem;
+    font-size: 0.5rem;
   }
   .slider::before {
     display: none;
